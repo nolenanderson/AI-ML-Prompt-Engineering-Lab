@@ -1,6 +1,7 @@
 # AI-ML-Prompt-Engineering-Lab
-About Job Posting
-________________________________________
+
+# About Job Posting:
+
 •	Identified Job Posting:
 The Job posting that I’ve identified is a Field Service Technician position at Canon U.S.A. In the future I hope to be doing this kind of job as a full-time career. As a result of this interest, I’ve chosen to identify this posting for the project. 
 
@@ -10,8 +11,10 @@ This job position is primarily about diagnosing problems with hardware and resol
 •	About Canon U.S.A. Inc:
 Canon U.S.A. is a provider company that focuses on developing and marketing digital imaging solutions for both consumers and businesses. These solutions include manufacturing and distributing cameras, camcorders, printers, and specialized lenses. Canon U.S.A. is a subsidiary company from Canon Inc, that is a Japanese corporation from Tokyo. As of 2025, Canon U.S.A. hold almost 50% of the camera market share in the United States.
 
-Prompts and Iterations:
 ________________________________________
+
+# Prompts and Iterations:
+
 •	Initial Prompt:
 “Generate a SWOT analysis for Canon U.S.A. Inc, an imaging provider company headquartered in Melville New York.” 
 
